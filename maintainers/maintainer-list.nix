@@ -2731,6 +2731,14 @@
     githubId = 869771;
     name = "Kirill Boltaev";
   };
+  asleepyskye = {
+    email = "skye@vixen.lgbt";
+    github = "asleepyskye";
+    githubId = 157172377;
+    keys = [ { fingerprint = "2264 3EA9 D7B3 5E5F 4026  338B DF48 8DE5 9B38 D858"; } ];
+    name = "skye";
+    matrix = "@fox:skye.pet";
+  };
   aspauldingcode = {
     email = "aspauldingcode@gmail.com";
     github = "aspauldingcode";
@@ -3577,13 +3585,6 @@
     github = "Ben9986";
     githubId = 38633150;
     keys = [ { fingerprint = "03C7 A587 74B3 F0E8 CE1F  4F8E ABBC DD77 69BC D3B0"; } ];
-  };
-  benaryorg = {
-    name = "benaryorg";
-    email = "binary@benary.org";
-    github = "benaryorg";
-    githubId = 6145260;
-    keys = [ { fingerprint = "804B 6CB8 AED5 61D9 3DAD  4DC5 E2F2 2C5E DF20 119D"; } ];
   };
   benchand = {
     name = "Ben Chand";
@@ -10656,12 +10657,6 @@
     email = "gio@damelio.net";
     github = "giodamelio";
     githubId = 441646;
-  };
-  giogadi = {
-    email = "lgtorres42@gmail.com";
-    github = "giogadi";
-    githubId = 1713676;
-    name = "Luis G. Torres";
   };
   giomf = {
     name = "giomf";
@@ -18753,6 +18748,12 @@
     github = "martinbaillie";
     githubId = 613740;
     name = "Martin Baillie";
+  };
+  mbarneyjr = {
+    email = "mbarneyme@gmail.com";
+    github = "mbarneyjr";
+    githubId = 11701776;
+    name = "Michael Barney";
   };
   mbe = {
     email = "brandonedens@gmail.com";
