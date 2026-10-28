@@ -10658,12 +10658,6 @@
     github = "giodamelio";
     githubId = 441646;
   };
-  giogadi = {
-    email = "lgtorres42@gmail.com";
-    github = "giogadi";
-    githubId = 1713676;
-    name = "Luis G. Torres";
-  };
   giomf = {
     name = "giomf";
     github = "giomf";
@@ -18754,6 +18748,12 @@
     github = "martinbaillie";
     githubId = 613740;
     name = "Martin Baillie";
+  };
+  mbarneyjr = {
+    email = "mbarneyme@gmail.com";
+    github = "mbarneyjr";
+    githubId = 11701776;
+    name = "Michael Barney";
   };
   mbe = {
     email = "brandonedens@gmail.com";
